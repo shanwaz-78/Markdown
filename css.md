@@ -30,4 +30,10 @@
 ## _To add shadow in text write this_
 * text-shadow: 2px 2px 5px red;
 ---
+`Center Alighn any text`
+* text-align: center;
+---
+`Bold Any Important text`
+* < strong >  < /strong >
+---
 
